@@ -21,6 +21,38 @@
 
 ---
 
+---
+
+## 📸 Capturas del Sistema
+
+<p align="center">
+  <b>🔑 Inicio de Sesión / Login</b><br>
+  <img src="Login_Vet_Care.png" alt="Login VetCare" width="800"/>
+</p>
+
+<br>
+
+<p align="center">
+  <b>📊 Dashboard Principal</b><br>
+  <img src="dashboard_Vet_Care.png" alt="Dashboard VetCare" width="800"/>
+</p>
+
+<br>
+
+<p align="center">
+  <b>📦 Gestión de Productos</b><br>
+  <img src="Gestion_Productos_VETCARE.png" alt="Gestión de Productos VetCare" width="800"/>
+</p>
+
+<br>
+
+<p align="center">
+  <b>📋 Control de Inventario</b><br>
+  <img src="Gestion_Inventario_VETCARE.png" alt="Gestión de Inventario VetCare" width="800"/>
+</p>
+
+---
+
 ## 🏗️ Arquitectura y Tecnologías
 
 - **Lenguaje:** C# (.NET Framework)
